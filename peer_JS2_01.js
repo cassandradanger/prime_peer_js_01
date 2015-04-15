@@ -33,7 +33,6 @@ is more than 1 character in the String. Return 'val' and set the 'value' to the 
 
 14. Your answer should be a String value that equals 7. Is that what you got?
 */
-
 var value = 42;
 
 if(value >= 53){
@@ -95,4 +94,6 @@ value = whatever(value);
 
 console.log(value);
 
+
+document.getElementById("p1").innerHTML = value;
 
